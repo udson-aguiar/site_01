@@ -5,6 +5,8 @@
 body {
 	font-family: "Lucida Sans Unicode", Verdana, sans-serif;
 		line-height:1.6;
+	background: #CC7766 url ('noise.png');
+	background: #FF0000;
 }
 .lugar {
 	border-color: #CCC #999 #999 #CCC;
@@ -12,4 +14,9 @@ body {
 	border-width: 1px;
 	margin-bottom: 20px;
 	padding: 10px;
+	background: rgba(210,210,210,0.3);
+}
+.lugar h2 {
+	border-bottom: 1px dashed #5C6818;
+	margin: 0;
 }
