@@ -6,7 +6,7 @@ body {
 	font-family: "Lucida Sans Unicode", Verdana, sans-serif;
 		line-height:1.6;
 	background: #CC7766 url ('noise.png');
-	background: #000000;
+	background: #FF0000;
 }
 .lugar {
 	border-color: #CCC #999 #999 #CCC;
@@ -19,4 +19,16 @@ body {
 .lugar h2 {
 	border-bottom: 1px dashed #5C6818;
 	margin: 0;
+}
+.lugar a {
+	color: #2C11AF;
+	font-wight: bold;
+}
+a {
+	color: #2C88A7;
+	text-decoration: none;
+}
+a:hover {
+	color: white;
+	background-color: black;
 }
