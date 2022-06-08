@@ -1,0 +1,15 @@
+.container {
+	margin: 0 auto;
+	width: 960px;
+}
+body {
+	font-family: "Lucida Sans Unicode", Verdana, sans-serif;
+		line-height:1.6;
+}
+.lugar {
+	border-color: #CCC #999 #999 #CCC;
+	border-style: solid;
+	border-width: 1px;
+	margin-bottom: 20px;
+	padding: 10px;
+}
