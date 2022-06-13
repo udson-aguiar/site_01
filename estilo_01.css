@@ -32,3 +32,10 @@ a:hover {
 	color: white;
 	background-color: black;
 }
+.lugar img {
+	height: 200px;
+	border: 1px solid black;
+	float: left;
+	margin: 10px 10px 0 0;
+	padding: 2px;
+}
