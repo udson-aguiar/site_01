@@ -8,6 +8,10 @@ body {
 	background: #CC7766 url ('noise.png');
 	background: #FF0000;
 }
+.total {
+	float: left;
+	width: 660px;
+}
 .lugar {
 	border-color: #CCC #999 #999 #CCC;
 	border-style: solid;
@@ -42,7 +46,24 @@ a:hover {
 .clear {
 	clear: both;
 }
+.notas {
+	background-color:
+		rgba(210,210,210,0.3);
+	padding: 10px;
+}
+.notas h3{
+	font-size: 14px;
+	margin-top: 0;
+}
+. notas ol{
+	font-size: 12px;
+}
+.notas {
+	float: right;
+	whidth: 260px;
+}
 footer {
 	text-align: center;
 	font-size: 12px;
+	clear: both;
 }
