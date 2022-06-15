@@ -64,6 +64,11 @@ a:hover {
         border: 1px solid;
 	background-color: rgba(210,210,210,0.5);
 }
+iframe {
+	display: block;
+	border-style: none;
+	margin: 0 auto;
+}
 footer {
 	text-align: center;
 	font-size: 12px;
