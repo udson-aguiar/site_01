@@ -68,6 +68,7 @@ iframe {
 	display: block;
 	border-style: none;
 	margin: 0 auto;
+	float: right;
 }
 footer {
 	text-align: center;
