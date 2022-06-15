@@ -62,6 +62,9 @@ a:hover {
 	float: right;
 	whidth: 260px;
 }
+.table, th, td {
+        border: 1px solid;
+}
 footer {
 	text-align: center;
 	font-size: 12px;
