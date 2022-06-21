@@ -6,7 +6,8 @@ body {
 	font-family: "Lucida Sans Unicode", Verdana, sans-serif;
 		line-height:1.6;
 	background: #CC7766 url ('noise.png');
-	background: #FF0000;
+	background: #000000;
+	color: #00FF00;
 }
 .total {
 	float: left;
