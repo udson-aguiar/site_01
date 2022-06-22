@@ -67,6 +67,8 @@ a:hover {
 fieldset {
 	border: 1px solid;
 	background-color: rgba(210,210,210,0.3);
+float: right;
+whidth: 260px;
 }
 iframe {
 	display: block;
