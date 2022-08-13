@@ -8,8 +8,10 @@ body {
 	background: #CC7766 url ('noise.png');
 	background: #000000;
 	color: #00FF00;
+	display: grid;
 }
 .total {
+	display: flex;
 	width: 660px;
 }
 .lugar {
